@@ -1,0 +1,3 @@
+﻿Id,Type,Prefab,DefaultPoolSize
+EFF_BLOOD,BLOOD,Prefabs/Effects/Blood,10
+EFF_SPARK,SPARK,Prefabs/Effects/Spark,10

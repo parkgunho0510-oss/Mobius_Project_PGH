@@ -1,0 +1,5 @@
+﻿Id,ItemName,Icon,Type,MaxStack,BasePrice,Description,WorldPrefab,Value,CoolTime
+POT_BAG_001,BasicPotion,Sprites/ConsumableItems/Potion_Basic,CONSUMABLE,99,100,붉은빛 액체가 담긴 기본적인 회복 물약 \n강력한 효능은 없지만 죽음의 문턱에서 수많은 모험가를 되돌려 보낸 생명의 물약이다. \n\n쿨타임 5초,Prefabs/Items/BasicPotion,20,5
+POT_INT_001,IntermediatePotion,Sprites/ConsumableItems/Potion_Intermediate,CONSUMABLE,99,150,정제된 약초와 마력이 혼합된 중급 회복 물약  \n기사단의 보급품으로 사용되며 일반 물약보다 효과가 좋다고 알려져있다. \n\n쿨타임 8초,Prefabs/Items/IntermediatePotion,35,8
+POT_PRE_001,PremiumPotion,Sprites/ConsumableItems/Potion_Premium,CONSUMABLE,99,200,멸망하기 전 왕국 연금학회의 조합식으로 제작된 고급 회복 물약 \n깊은 상처가 빠르게 아물며 극한의 전장에서도 생존 가능성을 높여 준다. \n\n쿨타임 10초,Prefabs/Items/PremiumPotion,50,10
+POT_STA_001,StaminaPotion,Sprites/ConsumableItems/Potion_Stamina,CONSUMABLE,99,200,격렬한 전투로  스테미나가 고갈된 육체에 활력을 불어넣는 특수 물약 \n마시면 기운이 혈관을 따라 퍼지며 무거워진 몸이 다시 움직이기 시작한다. \n\n쿨타임 10초,Prefabs/Items/StaminaPotion,50,10

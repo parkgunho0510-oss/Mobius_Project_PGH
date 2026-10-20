@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aae38872f685254ca6b879e3b6ffd06, type: 3}
+  m_Name: LastBlade
+  m_EditorClassIdentifier: Assembly-CSharp::EquipmentData
+  ID: WPN_005
+  ItemName: LastBlade
+  Icon: {fileID: 21300000, guid: 39ae360d892b86841858e8775a5861db, type: 3}
+  Type: 1
+  MaxStack: 50
+  BasePrice: 0
+  Description: 
+  EquipmentType: 0
+  GradeType: 3
+  ATK: 75
+  DEF: 40
+  STAMINA: 0
+  HP: 50
+  LUCK: 100
+  WeaponPrefab: {fileID: 2343020586928467425, guid: 9ec670ce04076a44f9107da98cfe0713, type: 3}
+  _animData: {fileID: 11400000, guid: e8929af70f555224f9e6594f91bd0bd0, type: 2}

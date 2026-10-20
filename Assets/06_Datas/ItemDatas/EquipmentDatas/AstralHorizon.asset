@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aae38872f685254ca6b879e3b6ffd06, type: 3}
+  m_Name: AstralHorizon
+  m_EditorClassIdentifier: Assembly-CSharp::EquipmentData
+  ID: WPN_002
+  ItemName: AstralHorizon
+  Icon: {fileID: 21300000, guid: 5dbbc29b72d30074480ae176237198e6, type: 3}
+  Type: 1
+  MaxStack: 50
+  BasePrice: 0
+  Description: 'RareWeapon '
+  EquipmentType: 3
+  GradeType: 1
+  ATK: 50
+  DEF: 0
+  STAMINA: 8
+  HP: 0
+  LUCK: 0
+  WeaponPrefab: {fileID: 2343020586928467425, guid: 29fd8adf658eb3448a21128eb7646cf9, type: 3}
+  _animData: {fileID: 11400000, guid: c97c56d2377a86c48b84b15d7b175a03, type: 2}

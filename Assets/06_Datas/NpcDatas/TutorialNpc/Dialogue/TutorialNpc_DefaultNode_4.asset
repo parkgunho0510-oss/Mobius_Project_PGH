@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4749ce0ce56da4c41bf116eb15086a95, type: 3}
+  m_Name: TutorialNpc_DefaultNode_4
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueNodeData
+  NodeID: TUTORIALNPC_DEFAULT_4
+  NpcName: "\uD29C\uD1A0\uB9AC\uC5BC"
+  Portrait: {fileID: 21300000, guid: ee24cc117bc3b6d49be95e42bba5559a, type: 3}
+  Text: "\uC801\uC758 \uCE7C\uB0A0\uC740 \uC0DD\uAC01\uBCF4\uB2E4 \uBE60\uB974\uB2E4.\r\n\r\nLCtrl\uC744
+    \uB20C\uB7EC \uAD74\uB7EC\uBD10\uB77C.\r\n\uACF5\uACA9\uC744 \uD53C\uD558\uB294
+    \uAC00\uC7A5 \uD655\uC2E4\uD55C \uBC29\uBC95\uC774\uB2E4.\r\n\r\n\uD558\uC9C0\uB9CC
+    \uBB34\uD131\uB300\uACE0 \uAD6C\uB974\uAE30\uB9CC \uD574\uC11C\uB294 \uC2A4\uD14C\uBBF8\uB098\uAC00
+    \uBC84\uD2F0\uC9C0 \uBABB\uD55C\uB2E4.\r\n\uD0C0\uC774\uBC0D\uC744 \uC775\uD600\uB77C."
+  NextNodeID: TUTORIALNPC_DEFAULT_5
+  IsEnd: 0

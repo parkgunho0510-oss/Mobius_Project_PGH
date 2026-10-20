@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aae38872f685254ca6b879e3b6ffd06, type: 3}
+  m_Name: LongSword
+  m_EditorClassIdentifier: Assembly-CSharp::EquipmentData
+  ID: WPN_001
+  ItemName: LongSword
+  Icon: {fileID: 21300000, guid: e62a9a426d8af244ab30ce472d550886, type: 3}
+  Type: 1
+  MaxStack: 1
+  BasePrice: 0
+  Description: 
+  EquipmentType: 0
+  GradeType: 0
+  ATK: 25
+  DEF: 0
+  STAMINA: 0
+  HP: 0
+  LUCK: 0
+  WeaponPrefab: {fileID: 5414179747838418858, guid: ffd4149abcca65845be864a039e3cd44, type: 3}
+  _animData: {fileID: 11400000, guid: e8929af70f555224f9e6594f91bd0bd0, type: 2}

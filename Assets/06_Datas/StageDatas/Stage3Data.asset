@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f251fb4cb582cd442a9e9680ecc5e88b, type: 3}
+  m_Name: Stage3Data
+  m_EditorClassIdentifier: Assembly-CSharp::StageData
+  id: STAGE_003
+  StageType: 2
+  StageDescription: 
+  MonsterList:
+  - id: 
+    StageID: 
+    MonsterName: Skeleton
+    MonsterPrefab: {fileID: 935579001530962377, guid: 4ae4068cb59c47942b81c017ef9b66ca, type: 3}
+    MinSpawnCount: 5
+    MaxSpawnCount: 15

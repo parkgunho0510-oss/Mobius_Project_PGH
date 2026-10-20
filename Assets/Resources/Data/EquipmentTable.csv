@@ -1,0 +1,7 @@
+﻿Id,ItemName,Icon,Type,MaxStack,BasePrice,Description,WorldPrefab,EquipmentType,GradeType,ATK,DEF,STAMINA,HP,LUCK,WeaponPrefab,AnimDataID
+WPN_LON_001,LongSword,Sprites/EquipmentItems/LongSword,EQUIPMENT,1,100,수많은 기사들이 처음 손에 쥐었다는 평범한 장검 \n특별한 힘은 없지만 셀 수 없는 전장의 흔적이 검날 깊숙이 새겨져 있다.,Prefabs/Items/LongSword_DRP,SWORD,COMMON,15,0,0,0,0,Prefabs/Weapons/LongSword,ANIM_SWO_001
+WPN_AST_001,AstralHorizon,Sprites/EquipmentItems/AstralHorizon,EQUIPMENT,1,200,밤하늘의 균열에서 떨어진 별의 파편으로 벼려낸 대검 \n휘두를 때마다 희미한 성운이 일렁이며  마치 우주를 바라보는 듯한 착각을 불러일으킨다.,Prefabs/Items/AstralHorizon_DRP,GREATSWORD,RARE,60,20,0,0,10,Prefabs/Weapons/AstralHorizon,ANIM_GRE_001
+ACC_SLI_001,SliverRing,Sprites/EquipmentItems/SilverRing,EQUIPMENT,1,100,은빛 축복이 깃든 작은 반지 \n눈에 띄지 않는 장신구지만  착용자의 몸을 조용히 보호하는 미약한 가호가 남아 있다.,Prefabs/Items/SliverRing,ARMOR,COMMON,0,20,0,0,0,,
+ACC_DEV_001,DevilRing,Sprites/EquipmentItems/DevilRing,EQUIPMENT,1,100,어둡게 물든 금속으로 만들어진 불길한 반지 \n악마와 계약한 전사가 남긴 유품이라는 소문이 있지만 \n진실을 확인한 자는 아무도 살아남지 못했다.,Prefabs/Items/DevilRing,ARMOR,EPIC,0,50,0,0,10,,
+WPN_IGN_001,IgnisBreaker,Sprites/EquipmentItems/IgnisBreaker,EQUIPMENT,1,300,화염 용광로 깊은 곳에서 벼려낸 거대한 전투 도끼 \n검붉은 날에는 아직도 식지 않은 열기가 남아 있으며  전장을 가르는 순간 불꽃이 튀어 오른다.,Prefabs/Items/IgnisBreaker_DRP,AXE,EPIC,120,20,0,0,20,Prefabs/Weapons/IgnisBreaker,ANIM_AXE_001
+WPN_GAI_001,GaiasGrace,Sprites/EquipmentItems/GaiasGrace,EQUIPMENT,1,500,대지의 심장에서 깎아냈다고 전해지는 거대한 전쟁 망치 \n무겁고 둔해 보이지만 휘두르는 순간 땅이 울리고 주변 공기마저 흔들린다.,Prefabs/Items/GaiasGrace_DRP,HAMMER,EPIC,65,60,0,0,30,Prefabs/Weapons/GaiasGrace,ANIM_HAM_001

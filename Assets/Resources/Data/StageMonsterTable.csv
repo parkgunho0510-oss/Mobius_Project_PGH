@@ -1,0 +1,9 @@
+Id,StageID,MonsterName,MonsterPrefab,MinSpawnCount,MaxSpawnCount
+STAGEM_000,STAGE_000,SkeletonWarrior,Prefabs/Monsters/SkeletonWarrior,3,4
+STAGEM_001,STAGE_001,SkeletonWarrior,Prefabs/Monsters/SkeletonWarrior,10,15
+STAGEM_002,STAGE_001,SkeletonArcher,Prefabs/Monsters/SkeletonArcher,5,8
+STAGEM_003,STAGE_002,KnightWarrior,Prefabs/Monsters/KnightWarrior,10,15
+STAGEM_004,STAGE_002,SkeletonArcher,Prefabs/Monsters/SkeletonArcher,5,8
+STAGEM_005,STAGE_003,MutantScout,Prefabs/Monsters/MutantScout,5,8
+STAGEM_006,STAGE_003,KnightWarrior,Prefabs/Monsters/KnightWarrior,3,5
+STAGEM_007,STAGE_003,HiveGuardian,Prefabs/Monsters/HiveGuardian_root,3,5

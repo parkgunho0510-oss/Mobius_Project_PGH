@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c63304aecafd566499d6f87c7c224f57, type: 3}
+  m_Name: QuestNpcData
+  m_EditorClassIdentifier: Assembly-CSharp::NpcData
+  NpcID: NPC_QUEST
+  NpcName: "\uD018\uC2A4\uD2B8_NPC"
+  Portrait: {fileID: 21300000, guid: ee24cc117bc3b6d49be95e42bba5559a, type: 3}
+  Profiles:
+  - {fileID: 11400000, guid: 5d56afe9cc956714587694fabcf66131, type: 2}
+  - {fileID: 11400000, guid: bd370652baf51e1458a856bfc549c119, type: 2}
+  - {fileID: 11400000, guid: 663ee7e90647f37438f57246bd1bb211, type: 2}

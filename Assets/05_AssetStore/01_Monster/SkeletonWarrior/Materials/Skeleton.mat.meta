@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e72f20c33a9dc0847a71139cab60c462
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210899
+  packageName: Skeleton Warrior / Knight
+  packageVersion: 1.0
+  assetPath: Assets/SkeletonWarrior/Materials/Skeleton.mat
+  uploadId: 477355

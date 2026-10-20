@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da6dcf6ba4339a74cb1a3a32360b7264
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210899
+  packageName: Skeleton Warrior / Knight
+  packageVersion: 1.0
+  assetPath: Assets/SkeletonWarrior/Shader/StandartDoubleSided.shader
+  uploadId: 477355
